@@ -1,2 +1,2 @@
-# Sistema-de-recomendaci-n-para-streaming-Spotify-
-Proyecto de sistema de recomendación musical tipo Spotify usando grafos, árboles, pilas, colas y arreglos.
+# Optimizador de rutas para logística
+Proyecto de optimización de rutas de transporte considerando tráfico, combustible y pedidos simultáneos.
